@@ -1,0 +1,23 @@
+@media screen and (max-width: 567px) {
+ .responsive-toast{
+  position: absolute;
+  width: 200%;
+  bottom: 290px;
+  right: 150px;
+  background: whitie;
+ } 
+ .carousel-title{
+  font-size: 1.15em;
+ }
+ .carousel-para{
+  height: 30px;
+  overflow: hidden;
+  font-size: 13px;
+  margin-bottom: 0;
+ }
+ .carousel-btn{
+  padding: 0 5px;
+  font-size: 14px;
+  margin-bottom: -10px;
+ }
+}
